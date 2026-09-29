@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers a secure, local AI workbench for organizations to process confidential data, enabling efficient analysis and document generation without external dependencies.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
